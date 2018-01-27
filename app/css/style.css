@@ -1,0 +1,98 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+::-webkit-scrollbar-button {
+    width: 3px;
+    height: 0
+}
+
+::-webkit-scrollbar-track {
+    background-color: #32312e;
+    box-shadow: 0 0 3px #000 inset;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #ffd839;
+    box-shadow: 0 1px 1px #fff inset;
+}
+
+::-webkit-resizer {
+    width: 3px;
+    height: 0
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+    height: 3px
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1;
+    margin: 0;
+}
+
+main {
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.2;
+    color: #1c1d1c;
+}
+
+.dib {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.obj {
+    position: absolute;
+}
+
+.img_box img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

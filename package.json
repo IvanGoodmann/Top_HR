@@ -1,0 +1,14 @@
+{
+  "name": "half_modal_top_hr",
+  "version": "1.0.0",
+  "description": "Top HR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Goodmann",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
